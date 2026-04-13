@@ -1,0 +1,2 @@
+pygame-ce>=2.5.0
+opensimplex>=0.4.5
